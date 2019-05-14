@@ -3,6 +3,7 @@
 This repository contains:
 1. VerfassungenNL_1884-2016.ttl: 20 xml documents of the Dutch constitution which were made available by [1] were converted into rdf
 2. Verfassungen_Annotationen_1884_1983_2016.ttl: Parts of three constitution versions (1884, 1983, 2016) were annotated with DBpedia entities
+3. A nil_annotations.png: A table of all surface forms which were annotated using the NIL (not in list) entity 
 
 The content is published under CC BY-SA 4.0 [2] 
 
